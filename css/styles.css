@@ -11,3 +11,8 @@ h1 {
   font-size: 40px
 
 }
+
+.sidebar {
+  width: 30%;
+  float: left;
+}
